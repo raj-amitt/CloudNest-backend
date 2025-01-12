@@ -1,0 +1,3 @@
+#files that never go on github, only where they are deployed
+.env
+node_modules
